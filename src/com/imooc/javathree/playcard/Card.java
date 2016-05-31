@@ -1,4 +1,4 @@
-package com.imocc.javathree.playcard;
+package com.imooc.javathree.playcard;
 
 /**
  * 单张牌的特征

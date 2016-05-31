@@ -1,4 +1,4 @@
-package com.imocc.javathree.playcard;
+package com.imooc.javathree.playcard;
 
 import java.util.ArrayList;
 import java.util.List;
